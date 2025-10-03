@@ -2,10 +2,6 @@
 
 A modern, full-stack note-taking application built with the MERN stack. Create, read, update, and delete your thoughts seamlessly with a beautiful, responsive interface.
 
-![ThinkBoard](https://img.shields.io/badge/ThinkBoard-Notes%20App-00FF9D?style=for-the-badge)
-![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-
 ## ✨ Features
 
 - **📝 Create & Edit Notes**: Write and update your thoughts with title and content
@@ -90,16 +86,6 @@ npm run dev
 ```
 The app will open at `http://localhost:5173`
 
-## 🔧 API Endpoints
-
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET | `/api/notes` | Get all notes |
-| GET | `/api/notes/:id` | Get note by ID |
-| POST | `/api/notes` | Create new note |
-| PUT | `/api/notes/:id` | Update note |
-| DELETE | `/api/notes/:id` | Delete note |
-
 ## 🎯 Available Scripts
 
 ### Backend
@@ -121,10 +107,6 @@ npm run preview # Preview production build
 - [ ] **Categories/Tags** - Organize notes better
 - [ ] **Rich Text Editor** - Markdown support
 - [ ] **User Authentication** - Personal note spaces
-
-## 📝 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
